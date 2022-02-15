@@ -1,6 +1,6 @@
 # Travel App
 
-Deployed Link 
+Deployed Link https://average-android.github.io/GroupProjectRepo/
 
 ## Description
 
